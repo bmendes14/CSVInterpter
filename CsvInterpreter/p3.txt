@@ -1,0 +1,3 @@
+print grammar.csv[2] * 2;
+grammar = grammar.csv;
+print grammar;

@@ -1,0 +1,5 @@
+mim,tu,ele,2
+1,nos,2,4
+ ,el, s,5
+nos,"vos",2,nos
+"eles","221",s, ele

@@ -1,0 +1,15 @@
+print grammar.csv;
+print a;
+a = grammar.csv;
+//a = selectC(grammar.csv,"nmec","nome","idade","localidade","p");
+b = unite(grammar.csv, grammar.csv, "zzzzzzzzz","sss");
+c = unite(g,ar, "ca","ab");
+d = selectC(gr,"sssss","sssss","ddddd","aaaaaaa");
+h = selectC(a,"Pao")++"4";
+f = selectC(b,"12Ola")--"91";
+h = selectC(c,"313")%2;
+j = selectC(grammar.csv,"12")*2;
+j = selectC(grammar.csv,"12")++"nos";
+z = selectC(grammar.csv,"12")<<;
+y = selectC(grammar.csv,"12")--"y";
+save(g);
